@@ -1,5 +1,7 @@
 # Приложение для поиска каллорийности продуктов
 
+<img width="894" height="733" alt="image" src="https://github.com/user-attachments/assets/4ac59448-114c-43a0-af04-e12a0ba91071" />
+
 Приложение для поиска калорийности продуктов через API OpenFoodFacts с графическим интерфейсом на PyQt5.
 
 ## Функциональность
